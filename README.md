@@ -5,7 +5,7 @@
      > pkg update && pkg upgrade
      > pkg install python git
      > pkg install pip
-     > rm -rf instaXC
+     > rm -rf spam
      > git clone https://github.com/Xyaa-Code/spam
 
 <h3 align="left">RUN SCRIPT:</h3>
