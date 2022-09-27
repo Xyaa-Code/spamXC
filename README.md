@@ -8,6 +8,11 @@
      > rm -rf spam
      > git clone https://github.com/Xyaa-Code/spam
 
+<h3 align="left">TAMPILAN:</h3>
+
+![Screenshot_2022-09-27-22-01-28-83_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/109187416/192564409-f22ae280-cd3f-4e11-95a9-dcf151eac0b1.jpg)
+
+
 <h3 align="left">RUN SCRIPT:</h3>
 
      > cd $HOME/spam
