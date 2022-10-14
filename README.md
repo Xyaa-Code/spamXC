@@ -13,6 +13,11 @@
 ![Screenshot_2022-10-14-20-18-14-06_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/109187416/195858397-568d69d6-cd81-4295-8555-5fa149292843.jpg)
 
 
+<h3 align="left">MENU CRACK IG:</h3>
+
+![20220919_023120](https://user-images.githubusercontent.com/109187416/191349510-bfb82339-69c0-49e2-bb8e-36cb237b4fc4.png)
+
+
 <h3 align="left">RUN SCRIPT:</h3>
 
      > cd $HOME/spam
