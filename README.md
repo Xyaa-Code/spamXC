@@ -1,12 +1,12 @@
 <h3 align="left">CARA INSTALL SCRIPT:</h3>
 
-***download aplikasi termux android atau*** <a href="https://f-droid.org/en/packages/com.termux/">disini</a> ***lalu buka aplikasinya ketikan perintah dibawah ini.***
+***download aplikasi termux di playstore atau*** <a href="https://f-droid.org/en/packages/com.termux/">klik disini</a> ***lalu buka aplikasinya ketikan perintah dibawah ini.***
 
      > pkg update && pkg upgrade
      > pkg install python git
      > pkg install pip
-     > rm -rf spam
-     > git clone https://github.com/Xyaa-Code/spam
+     > rm -rf spamXC
+     > git clone https://github.com/Xyaa-Code/spamXC
 
 <h3 align="left">TAMPILAN:</h3>
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">RUN SCRIPT:</h3>
 
-     > cd $HOME/spam
+     > cd $HOME/spamXC
      > git pull 
      > python run.py
 
