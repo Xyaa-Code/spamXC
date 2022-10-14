@@ -10,7 +10,7 @@
 
 <h3 align="left">TAMPILAN:</h3>
 
-![Screenshot_2022-09-27-22-01-28-83_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/109187416/192564409-f22ae280-cd3f-4e11-95a9-dcf151eac0b1.jpg)
+![Screenshot_2022-10-14-20-18-14-06_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/109187416/195858397-568d69d6-cd81-4295-8555-5fa149292843.jpg)
 
 
 <h3 align="left">RUN SCRIPT:</h3>
